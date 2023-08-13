@@ -1,0 +1,6 @@
+C:\Users\Alperen AKKAYA\Desktop\Optimize Lite\tools\bin\Debug\tools.dll
+C:\Users\Alperen AKKAYA\Desktop\Optimize Lite\tools\bin\Debug\tools.pdb
+C:\Users\Alperen AKKAYA\Desktop\Optimize Lite\tools\obj\Debug\tools.csproj.AssemblyReference.cache
+C:\Users\Alperen AKKAYA\Desktop\Optimize Lite\tools\obj\Debug\tools.csproj.CoreCompileInputs.cache
+C:\Users\Alperen AKKAYA\Desktop\Optimize Lite\tools\obj\Debug\tools.dll
+C:\Users\Alperen AKKAYA\Desktop\Optimize Lite\tools\obj\Debug\tools.pdb
